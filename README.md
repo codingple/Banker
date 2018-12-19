@@ -18,4 +18,4 @@ Type this command:
 ```>> 0 1 2 3 4```  
 means allocate 1 of resource A, 2 of resource B, 3 of resource C, and 4 of resource D to P0.  
 &nbsp;  
-![banker_pic](banker_pic.PNG)
+![banker_pic](./banker_pic.png)
